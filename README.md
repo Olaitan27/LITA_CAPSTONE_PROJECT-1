@@ -26,16 +26,6 @@ The primary Source of Data used here is LITA Capstone Dataset.xlsx
  - Regional Performance
  - Monthly Sales Trend
 
-   ### Data Visualization
-
-![EXCEL PIVOT](https://github.com/user-attachments/assets/078485d7-de59-4ba3-b329-f9b0e2b40c68)
-
- 
- +![Screenshot 2024-11-03 225341 tables](https://github.com/user-attachments/assets/55f6544c-2aaa-41d7-ba53-dcd3b5226e59)
-
-
-+![Dashboard 1](https://github.com/user-attachments/assets/5d8592ea-4cbe-41f9-9125-9ff6b07a4027)
-
 
 
 
