@@ -36,5 +36,8 @@ The primary Source of Data used here is LITA Capstone Dataset.xlsx
 
 ![Dashboard 1](https://github.com/user-attachments/assets/3711cf1e-7338-4db2-a66c-5d0048e89212)
 
+The following are visual representations of the findings made. 
+For the products, The HIghest total sales were gotten from shoes and hieghest sales was made in the east region
+
 
 
