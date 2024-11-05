@@ -44,12 +44,10 @@ Select
 FROM 
 	[dbo].[sales data 2]
 GROUP BY 
-
-	Product
+        Product
 ORDER BY 
 	TotalSales Desc
  The total sales of each product can be seen in the visuals
-
  
  ### Number Of Sales Transaction In Each Region
 SELECT
