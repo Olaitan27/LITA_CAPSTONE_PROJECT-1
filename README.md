@@ -1,4 +1,31 @@
 # LITA_CAPSTONE_PROJECT-1
+
+### Project Tittle: Sales performance Analysis
+
+### Project overview
+This data Analysis Project is done analyse the sales performance of a retail store
+
+#### Data Sources
+The primary Source of Data used here is LITA Capstone Dataset.xlsx
+
+### Tools Used
+- Microsoft Excel
+ 1. For Data Cleaning
+ 2. For Analysis
+ 3. For Data Visualization
+ 
+- SQL- Structured Query Language for Querying of Data
+- Power Bi- for creating Dashboard
+  
+### Data Cleaning and Praparation
+ In this process,duplicates were Removed, the Data was filtered and sorted
+
+ ### Exploratory Data Analysis
+ The data was explored to deduce the following:
+ - Top selling products
+ - Regional performance
+ - Monthly sales trend
+
 ### Pivot Tables
 These Pivot Tables Summarizes The Total sales Made on each Product, in each Region and each Month
 ![Sales Pivot Table](https://github.com/user-attachments/assets/0a6edf40-f438-4eba-8e39-6cd635311665)
