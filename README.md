@@ -16,7 +16,7 @@ Select
 	SUM(Revenue) AS TotalSales
 FROM 
 	[dbo].[sales data 2]
-GROUP BY ![Sales Pivot Table](https://github.com/user-attachments/assets/64ab2c03-18ab-4e9c-b96d-9a527d959a54)
+GROUP BY 
 
 	Product
 ORDER BY 
