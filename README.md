@@ -26,8 +26,6 @@ The primary Source of Data used here is LITA Capstone Dataset.xlsx
  - Regional Performance
  - Monthly Sales Trend
 
-### Data Visualizations
-
 ### Pivot Tables
 These Pivot Tables Summarizes The Total sales Made on each Product, in each Region and each Month
 ![Sales Pivot Table](https://github.com/user-attachments/assets/0a6edf40-f438-4eba-8e39-6cd635311665)
